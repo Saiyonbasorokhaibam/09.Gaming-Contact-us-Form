@@ -37,7 +37,7 @@ This page features a sleek futuristic UI inspired by gaming dashboards — compl
 
 ## 🧪 Preview
 
-![WiFi Pricing Preview](https://github.com/haokipstevin-rgb/7.-Gaming---Contact-us-Form/blob/main/preview.png?raw=true)
+![WiFi Pricing Preview](https://github.com/Saiyonbasorokhaibam/09.Gaming-Contact-us-Form/blob/main/preview.png?raw=true)
 
 ---
 
@@ -60,3 +60,4 @@ Feel free to modify and use it for personal or commercial projects.
 
 **Saiyonba Sorokhaibam** —
 Frontend Developer & UI Designer
+
